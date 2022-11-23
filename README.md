@@ -1,6 +1,7 @@
 ## Description
 This team project is part of the first year curriculum of ALX.
    * Team: Myself (Shimelis) & bockyonmars [Bosworth Onyema]
+
 _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
